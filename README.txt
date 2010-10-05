@@ -1,0 +1,1 @@
+This software repository concerns the analysis of news from the developing world and corresponding articles published in the international press. By collecting a corpus of developing world news, it is possible to learn from the data the characteristics of stories are reported internationally as well as locally, to identify anomalous articles, and other types of analysis.
