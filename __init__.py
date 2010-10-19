@@ -1,0 +1,1 @@
+"""Scoop can be used as a package (standalone and pypi distribution)"""
